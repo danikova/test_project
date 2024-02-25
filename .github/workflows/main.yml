@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  HACKATON_SERVER: https://139-162-167-133.ip.linodeusercontent.com/
+  HACKATON_SERVER: https://e265-81-0-99-51.ngrok-free.app
   GLOBAL_TIMEOUT: 10
   PYTHON_VER: 3.11
 
